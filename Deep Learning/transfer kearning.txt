@@ -1,0 +1,4 @@
+"rms_prop"
+to train the model:
+	model.fit() 
+	model.save(<filename.pb>)
